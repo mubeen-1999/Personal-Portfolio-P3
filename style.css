@@ -154,5 +154,19 @@ footer {
 .flex{
     display: block;
 }
+.projects li{
+    background-color:rgb(210, 232, 250);
+    border: 2px solid black;
+
+}
+.work-experience article{
+    background-color: rgb(210, 232, 250);
+    border: 2px solid black;
+    padding: 10px;
+    height: auto;
+}
+.work-experience{
+    padding-bottom:40px ;
+}
 
 }
